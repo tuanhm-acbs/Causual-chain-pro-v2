@@ -1,0 +1,1 @@
+Upload index.html and data.js to your Pro GitHub repo. Pro 2 adds Learn Mode with Next Chain, Previous, Hide/Reveal, Mark Learned, and Quiz This Chain.
